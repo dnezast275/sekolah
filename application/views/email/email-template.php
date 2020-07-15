@@ -1,0 +1,1 @@
+Click this link to activate your account : <a href="<?= base_url(); ?>auth/verify?email=<?= $this->input->post('email'); ?>&token=<?= urlencode($token); ?>">Activate</a>
