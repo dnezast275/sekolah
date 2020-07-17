@@ -1,12 +1,12 @@
-<div class="container-fluid">
+<div class="container-xl">
     <div class="row">
 
     </div>
 </div>
 
-<div class="container-fluid mt-4">
-    <div class="row ml-3 mr-3">
-        <div class="col-lg-9" style="border: 1px solid black;">
+<div class="container-xl mt-4">
+    <div class="row ml-1 mr-1">
+        <div class="col-lg-9">
             <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -17,7 +17,7 @@
                     <div class="carousel-item active">
                         <img src="<?= base_url('asset/img/uploads/'); ?>s1.png" class="d-block w-100" alt="910 x 460">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>First slide label</h5>
+                            <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus, tenetur.</h5>
                             <i class="fa fa-clock"></i><span> 14 Juli 2020</span>
                             <i class="fa fa-user"> </i><span> Administrator</span>
                             <i class="fa fa-tags"> </i><span> Kategori</span>

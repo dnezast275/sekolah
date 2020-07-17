@@ -21,8 +21,8 @@
 <body>
 
     <header class="header">
-        <div class="container-fluid">
-            <div class="container-fluid">
+        <div class="container-xl">
+            <div class="container-xl">
                 <div class="row mt-4 mb-4">
                     <div class="col-lg-1">
                         <a href="<?= base_url(); ?>" class="logo-link">
