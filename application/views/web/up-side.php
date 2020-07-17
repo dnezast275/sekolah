@@ -1,4 +1,4 @@
-<div class="col-lg-3" style="border: 1px solid black;">
+<div class="col-lg-3">
     <div class="card" style="width: 100%;">
         <img src="<?= base_url('asset/img/'); ?>avatar.png" class="card-img-top" alt="Headmaster Profile">
         <div class="card-body">
