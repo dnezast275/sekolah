@@ -92,11 +92,9 @@ header ul.drop-2 {
 
 /* Carousel / Slider */
 .carousel-caption {
-	right: 35% !important;
+	right: 30% !important;
 	left: 5% !important;
-	top: 70%;
-	bottom: 10%;
-	padding-left: 20px;
+	padding: 15px 15px 15px 15px !important;
 	text-align: justify !important;
 	background-color: rgba(65, 65, 65, 0.6);
 }
@@ -108,6 +106,45 @@ header ul.drop-2 {
 
 .carousel-caption span {
 	font-size: 15px;
+}
+
+.content .col-4,
+.content .col-8 {
+	padding: 10px 10px 10px 10px;
+}
+
+.content .artikel {
+	background-color: #d0d0d0;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	margin-right: 0;
+}
+
+.img-content {
+	width: 100%;
+}
+
+.content .head-artikel {
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	margin-bottom: 0;
+}
+
+.content i,
+.content span,
+.content .ringkasan {
+	font-size: 0.9rem;
+	/* margin-top: -5px; */
+}
+
+.content .ringkasan {
+	margin-top: 5px;
+	margin-bottom: 14px;
+}
+
+.content .btn {
+	padding: 0.3rem 0.5rem;
 }
 
 @media (min-width: 576px) {
